@@ -39,7 +39,7 @@ body.lb-disable-scrolling {
   border-radius: 5px;
 
   /* Image border */
-  border: 10px solid white;
+  border: 10px solid rgb(223, 107, 107);
 }
 
 .lightbox a img {
@@ -56,7 +56,7 @@ body.lb-disable-scrolling {
 
   /* Background color behind image.
      This is visible during transitions. */
-  background-color: white;
+  background-color: black;
 }
 
 .lb-outerContainer:after {
@@ -104,7 +104,7 @@ body.lb-disable-scrolling {
 .lb-prev, .lb-next {
   height: 100%;
   cursor: pointer;
-  display: block;
+  display: white;
 }
 
 .lb-nav a.lb-prev {
@@ -181,7 +181,7 @@ body.lb-disable-scrolling {
 }
 
 .lb-data .lb-caption a {
-  color: #4ae;
+  color: rgb(118, 177, 216);
 }
 
 .lb-data .lb-number {
