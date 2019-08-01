@@ -248,6 +248,10 @@ nav a::before {
   opacity: 1;
   z-index: -1;
 }
+
+#progress{
+	background-color: #F4E2D8;
+}
 nav a:hover {
 	text-decoration: none;
   -webkit-animation: fillColour 0.7s forwards ease-in-out;
@@ -319,6 +323,8 @@ nav a:hover::before {
 	background-color: #fff;
 	color: #232323!important;
 }
+
+
 
 
 .first-content {
